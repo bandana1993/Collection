@@ -1,2 +1,2 @@
 # Collection
-MyCollectionPractice
+All important collection practices for SDET
